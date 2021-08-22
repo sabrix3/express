@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logo {
+    width: 10%;
+    float: left;
+}
+
+h1 {
+    font-size: larger;
+}
+.mainimg {
+    width: 70%;
+    margin-top: 100px;
+}
+
+li {
+    display: inline-flex;
+    padding-left: 10px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+header {
+    display: inline-flex;
+}
+
+ul {
+    display: inline-flex;
+    
+}
